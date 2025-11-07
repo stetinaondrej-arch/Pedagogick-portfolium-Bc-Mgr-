@@ -1,5 +1,1 @@
-Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Ondřej Štětina (D250294) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
+Tato část portfolia slouží k prezentaci relevantních metodických a didaktických souborů, jako jsou výukové materiály, prezentace, plány hodin, výukové aplikace, odkazy na online testy, které jste vytvořili, pracovní listy a další.
